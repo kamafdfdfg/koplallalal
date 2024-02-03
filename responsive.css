@@ -1,0 +1,190 @@
+/* Medium Layout: 1367px. */
+
+@media only screen and (min-width: 1200px) and (max-width: 1367px) {
+
+}
+
+
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1249px) {
+     
+    
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+     
+}
+@media only screen and (max-width: 1699px) {
+     
+}
+
+@media only screen and (max-width: 1487px) {
+    
+}
+
+
+@media only screen and (max-width: 1249px) {
+    
+}
+@media only screen and (max-width: 1199px) {
+     
+}
+@media only screen and (max-width: 1099px) {
+  
+}
+@media only screen and (max-width: 1016px) {
+    
+}
+@media only screen and (max-width: 991px) {
+     
+}
+@media only screen and (min-width: 768px) {
+     
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+    .another-email-box input.cbcoin-input {
+        width: calc(100% - 40px);
+    }
+    
+    span.remove-address-field {
+        right: 5px;
+    }
+    span.edit-percent-field {
+        right: -22px;
+    }
+    .hero-calc-area {}
+    .recevier-email-field {
+        width: calc(100% - 105px);
+    }
+    
+    .another-email-box input.cbcoin-input {
+        width: calc(100% - 105px);
+    }
+    
+    .another-email-box  span.receiver-email-percent {
+        right: 55px;
+    }
+    
+    .recevier-email-field {}
+    
+    .recevier-email-field span.receiver-email-percent {
+        right: -55px;
+    }
+.hero-calc-box h2 {
+    font-size: 26px;
+    margin-bottom: 5px;
+}
+.hero-calculator {
+    max-width: 100%;
+}
+.hero-calc-box {
+    padding: 0px 15px;
+}
+.page-header {
+    padding: 30px 10px;
+}
+
+.service-area {
+    padding: 40px 10px;
+}
+
+.page-header h2 {
+    font-size: 26px;
+    line-height: 34px;
+}
+
+.service-text h3 {
+    font-size: 22px;
+    line-height: 28px;
+}
+
+.service-text p {
+    font-size: 16px;
+    line-height: 22px;
+}
+.faq-area {
+    padding: 40px 10px;
+}
+
+.faq-accordion .accordion-header button.accordion-button {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.faq-accordion .accordion-body p {
+    font-size: 14px;
+    line-height: 22px;
+}
+    .logo {
+        text-align: center;
+    }
+    
+    .nav-menu-box {
+        margin: 5px auto;
+    }
+    
+    .launch-app-btn {
+        text-align: center;
+    }
+    
+    a.launch-btn {
+        font-size: 12px;
+        padding: 5px;
+    }
+    
+    header.header-area {
+        padding: 5px 0px;
+    }
+    
+    footer.footer-area {
+        padding: 10px 0px;
+    }
+    
+    .fw-links {
+        text-align: center;
+    }
+    
+    .fw-copyright {
+        text-align: center;
+    }
+    
+    .fw-links ul li {
+        margin: 0px 10px;
+    }
+}
+
+@media only screen and (max-width: 680px) {
+     
+}
+
+@media only screen and (max-width: 540px) {
+     
+}
+@media only screen and (max-width: 440px) {
+     
+}
+
+@media only screen and (max-width: 360px) {
+     
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+    
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (max-width: 319px) {
+   
+  
+}
